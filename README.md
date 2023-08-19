@@ -4,7 +4,7 @@ This is a simple HTML and CSS profile card component created by **Narendra Koya*
 
 ## Preview
 
-[Profile Card Component Preview]()
+[Profile Card Component Preview](https://narendrakoya999.github.io/Profile-Card-Component/)
 
 ## Languages Used
 [![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/)
