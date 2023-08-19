@@ -6,6 +6,10 @@ This is a simple HTML and CSS profile card component created by **Narendra Koya*
 
 [Profile Card Component Preview]()
 
+## Languages Used
+[![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)](https://www.w3.org/TR/css-2022/)
+
 ## Features
 
 - Profile picture display
@@ -14,10 +18,6 @@ This is a simple HTML and CSS profile card component created by **Narendra Koya*
 - Followers, following, and projects completed statistics
 - Follow and view profile buttons
 
-## Usage
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/profile-card-component.git
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
