@@ -19,5 +19,5 @@ This is a simple HTML and CSS profile card component created by **Narendra Koya*
 - Follow and view profile buttons
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+- This Project is Under the [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
